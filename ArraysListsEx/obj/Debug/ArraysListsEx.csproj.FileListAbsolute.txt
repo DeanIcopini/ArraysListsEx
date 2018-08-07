@@ -1,0 +1,7 @@
+C:\Users\Dean\Code_Vault\C_Sharp\ArraysListsEx\ArraysListsEx\bin\Debug\ArraysListsEx.exe.config
+C:\Users\Dean\Code_Vault\C_Sharp\ArraysListsEx\ArraysListsEx\bin\Debug\ArraysListsEx.exe
+C:\Users\Dean\Code_Vault\C_Sharp\ArraysListsEx\ArraysListsEx\bin\Debug\ArraysListsEx.pdb
+C:\Users\Dean\Code_Vault\C_Sharp\ArraysListsEx\ArraysListsEx\obj\Debug\ArraysListsEx.csprojAssemblyReference.cache
+C:\Users\Dean\Code_Vault\C_Sharp\ArraysListsEx\ArraysListsEx\obj\Debug\ArraysListsEx.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Code_Vault\C_Sharp\ArraysListsEx\ArraysListsEx\obj\Debug\ArraysListsEx.exe
+C:\Users\Dean\Code_Vault\C_Sharp\ArraysListsEx\ArraysListsEx\obj\Debug\ArraysListsEx.pdb
